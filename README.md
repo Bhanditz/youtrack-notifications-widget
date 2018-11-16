@@ -1,0 +1,1 @@
+# youtrack-notifications-widget
